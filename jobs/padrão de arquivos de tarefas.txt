@@ -1,0 +1,12 @@
+padrao de arquivo varialvel:
+
+[tipo_de_arquivo]
+[função,intervalo_ini,intervalo_fim]
+[função_a_ser_usada,quantidade_de_repeticoes,param_v,param_w,param_y,param_z]
+
+função_a_ser_usada: CON / CRE / DEC / OND / EX+ / EX-
+------------------------------------------------------------------------------
+padrao de arquivo fixo
+
+[tipo_de_arquivo]
+[função,intervalo_ini,intervalo_fim,quantidade_de_calculos]
